@@ -1,0 +1,5 @@
+bower_components/**
+.idea/bs1.iml
+.idea/modules.xml
+.idea/workspace.xml
+bower_components/
