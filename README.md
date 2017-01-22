@@ -1,2 +1,2 @@
-# bs1
-Bootstrap 4 alpha 1 sandbox repo
+Sandbox area for bootstrap 4 beta 6 fiddling
+--------------------------------------------
